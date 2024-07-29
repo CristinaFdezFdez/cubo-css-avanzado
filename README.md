@@ -19,9 +19,11 @@
 
 
 ## Vista Previa
-![cubo css](https://github.com/user-attachments/assets/8225f6fe-09d8-4b78-a95b-2173cdfc59dd)
 
 ![cubo en scroll](https://github.com/user-attachments/assets/309f63a0-9e42-4e36-a63b-2f9178593ab1)
+
+![cubo css](https://github.com/user-attachments/assets/8225f6fe-09d8-4b78-a95b-2173cdfc59dd)
+
 
 ## Archivos Importantes
 
